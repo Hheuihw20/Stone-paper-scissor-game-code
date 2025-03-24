@@ -1,1 +1,1 @@
-# Stone-paper-scissor-game-code
+# rock-paper-scissor-game-code
